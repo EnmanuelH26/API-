@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Practica de APIs\\CAAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54AF652A-53E7-4308-B3C0-C0E07534FAA0}|CAAPI.csproj|c:\\users\\lenovo\\desktop\\practica de apis\\caapi\\repository\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AF652A-53E7-4308-B3C0-C0E07534FAA0}|CAAPI.csproj|solutionrelative:repository\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AF652A-53E7-4308-B3C0-C0E07534FAA0}|CAAPI.csproj|c:\\users\\lenovo\\desktop\\practica de apis\\caapi\\repository\\irepository\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AF652A-53E7-4308-B3C0-C0E07534FAA0}|CAAPI.csproj|solutionrelative:repository\\irepository\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AF652A-53E7-4308-B3C0-C0E07534FAA0}|CAAPI.csproj|c:\\users\\lenovo\\desktop\\practica de apis\\caapi\\model\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AF652A-53E7-4308-B3C0-C0E07534FAA0}|CAAPI.csproj|solutionrelative:model\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AF652A-53E7-4308-B3C0-C0E07534FAA0}|CAAPI.csproj|c:\\users\\lenovo\\desktop\\practica de apis\\caapi\\data\\applicationdatabd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AF652A-53E7-4308-B3C0-C0E07534FAA0}|CAAPI.csproj|solutionrelative:data\\applicationdatabd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AF652A-53E7-4308-B3C0-C0E07534FAA0}|CAAPI.csproj|c:\\users\\lenovo\\desktop\\practica de apis\\caapi\\controllers\\contactmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AF652A-53E7-4308-B3C0-C0E07534FAA0}|CAAPI.csproj|solutionrelative:controllers\\contactmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AF652A-53E7-4308-B3C0-C0E07534FAA0}|CAAPI.csproj|c:\\users\\lenovo\\desktop\\practica de apis\\caapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AF652A-53E7-4308-B3C0-C0E07534FAA0}|CAAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AF652A-53E7-4308-B3C0-C0E07534FAA0}|CAAPI.csproj|c:\\users\\lenovo\\desktop\\practica de apis\\caapi\\caapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{54AF652A-53E7-4308-B3C0-C0E07534FAA0}|CAAPI.csproj|solutionrelative:caapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Practica de APIs\\CAAPI\\Repository\\IRepository\\IContactRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IRepository\\IContactRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Practica de APIs\\CAAPI\\Repository\\IRepository\\IContactRepository.cs",
+              "RelativeToolTip": "Repository\\IRepository\\IContactRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:03:39.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Practica de APIs\\CAAPI\\Model\\Contact.cs",
+              "RelativeDocumentMoniker": "Model\\Contact.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Practica de APIs\\CAAPI\\Model\\Contact.cs",
+              "RelativeToolTip": "Model\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:56:46.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Practica de APIs\\CAAPI\\Repository\\ContactRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ContactRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Practica de APIs\\CAAPI\\Repository\\ContactRepository.cs",
+              "RelativeToolTip": "Repository\\ContactRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T13:07:28.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Practica de APIs\\CAAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Practica de APIs\\CAAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:55:38.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDataBd.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Practica de APIs\\CAAPI\\Data\\ApplicationDataBd.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDataBd.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Practica de APIs\\CAAPI\\Data\\ApplicationDataBd.cs",
+              "RelativeToolTip": "Data\\ApplicationDataBd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:51:07.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactManagementController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Practica de APIs\\CAAPI\\Controllers\\ContactManagementController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContactManagementController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Practica de APIs\\CAAPI\\Controllers\\ContactManagementController.cs",
+              "RelativeToolTip": "Controllers\\ContactManagementController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:49:29.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CAAPI",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Practica de APIs\\CAAPI\\CAAPI.csproj",
+              "RelativeDocumentMoniker": "CAAPI.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Practica de APIs\\CAAPI\\CAAPI.csproj",
+              "RelativeToolTip": "CAAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-09T12:57:32.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
